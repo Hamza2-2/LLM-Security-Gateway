@@ -33,8 +33,7 @@ class GatewayGUI:
         header.pack(fill=tk.X)
         header.pack_propagate(False)
         tk.Label(header, text="Presidio-Based LLM Security Gateway", font=("Segoe UI", 16, "bold"), fg="white", bg="#2c3e50").pack(side=tk.LEFT, padx=20, pady=15)
-        tk.Label(header, text="CEN-451 Assignment", font=("Segoe UI", 10), fg="#bdc3c7", bg="#2c3e50").pack(side=tk.RIGHT, padx=20, pady=15)
-
+ 
         self.notebook = ttk.Notebook(self.root)
         self.notebook.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
 
