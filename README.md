@@ -46,12 +46,6 @@ llm-security-gateway/
 ├── setup/                         # Installation
 │   ├── setup.bat                  # One-time setup script
 │   └── requirements.txt           # Python dependencies
-│
-├── report/                        # IEEE report
-│   ├── report.tex                 # LaTeX source
-│   ├── report.pdf                 # Compiled PDF
-│   └── IEEEtran.cls               # IEEE class file
-│
 └── README.md
 ```
 
