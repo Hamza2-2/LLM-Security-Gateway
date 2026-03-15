@@ -274,7 +274,7 @@ class GatewayGUI:
         presets = [
             ("ALLOW", "What is the weather today?", "Benign query"),
             ("ALLOW", "Hello, I need help with my project.", "Casual greeting"),
-            ("MASK", "My CNIC is 35201-1234567-1", "Pakistani CNIC"),
+            ("MASK", "My CNIC is 61101-1381464-1", "Pakistani CNIC"),
             ("MASK", "Contact me at hamza@example.com", "Email address"),
             ("MASK", "My API key is sk-abc123def456ghi789jkl012mno345", "API key exposure"),
             ("MASK", "Employee EMP-20230042 in DEPT-IT-0033", "Internal IDs"),
