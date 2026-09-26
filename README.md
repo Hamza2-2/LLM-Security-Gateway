@@ -98,7 +98,5 @@ All thresholds in `core/config.py`:
 | `INJECTION_WARN_THRESHOLD` | 2 | Score to trigger WARN/MASK |
 | `CONTEXT_BOOST` | 0.15 | Confidence boost from context |
 | `ENABLED_ENTITIES` | 9 types | Which PII types to scan for |
-
-## License
-
-Academic project — Bahria University, Information Security (CEN-451)
+ 
+ 
